@@ -1,1 +1,1 @@
-This is my first web site. 
+This web site is developed by Berke Ege ERSAYAN. 
